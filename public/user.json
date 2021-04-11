@@ -1,0 +1,11 @@
+
+[
+   {"name":"Ajit",    "mobile":"9999999",  "city":"pune",      "photo":"1.jpg"},
+   {"name":"harshad", "mobile":"8888888",  "city":"hyderabad", "photo":"2.jpg"},
+   {"name":"mahesh",  "mobile":"7777777",  "city":"Chennai",   "photo":"3.jpg"},
+   {"name":"sureh",   "mobile":"66666666", "city":"banglore",  "photo":"4.jpg"},
+   {"name":"vijay",   "mobile":"55555555", "city":"Ap",        "photo":"5.jpg"},
+   {"name":"fayaz",   "mobile":"4444444",  "city":"delhi",     "photo":"3.jpg"},
+   {"name":"harish",  "mobile":"3333333",  "city":"mumbai",    "photo":"1.jpg"}
+   
+]
