@@ -1,7 +1,6 @@
 import React , {useState , useEffect} from 'react';
 import CustomerList from './customerlist';
 
-
 const MyProps = () =>{
     const [user , updateUser] = useState([]);
     const[carlsit , updateCar] = useState([]);
