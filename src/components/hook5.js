@@ -15,7 +15,6 @@ const HookFive = () =>{
         .then(response=>response.json())
         .then(result=>updateUser(result))
     }
-
     useEffect(()=>{
         getUser();
     },[true])
@@ -32,7 +31,7 @@ const HookFive = () =>{
                     <h3> {id} = Total Users Are -: {user.length} </h3>
                 </div>
             </div>
-
+            
             <div className="row">
                 <div className="col-md-3">
                     <ul className="list-group">

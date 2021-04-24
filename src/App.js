@@ -18,7 +18,7 @@ import HookOne from './hook1';
 import HookTwo from './hook2';
 import HookThree from './hook3';
 import HookFour from './hook4';
-import HookFive from './hook5';
+import HookFive from './components/hook5';
 import MyProps from './props';
 import Validation from './validation';
 import Example from './example';
