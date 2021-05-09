@@ -27,6 +27,8 @@ const Header = () =>{
                 <li> <Link to="/0/hook5" className="pagelink">hook5</Link> </li>
                 <li> <Link to="/props" className="pagelink">myprops</Link> </li>
                 <li> <Link to="/validation" className="pagelink">Validation</Link> </li>
+                <li> <Link to="/api1" className="pagelink">ApI 1</Link> </li>
+                <li> <Link to="/api2" className="pagelink">ApI 2</Link> </li>
             </ul>
         </nav>
     )

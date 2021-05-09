@@ -16,6 +16,7 @@ class StateTwo extends Component{
             loc : obj.target.value,
             
         })
+        obj.preventDefault()
         
     }
    
@@ -24,6 +25,7 @@ class StateTwo extends Component{
         this.setState({
             citylist : this.state.citylist.concat(this.state.loc)
         });
+        
     }
        
     render(){

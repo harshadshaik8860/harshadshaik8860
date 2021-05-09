@@ -8,7 +8,6 @@ class StateAPI1 extends Component
       citylist:[]
     }
   }
-
   getData = () => {
     fetch("http://firstenquiry.com/api/react/live/allcity.php")
         .then(response => response.json())
